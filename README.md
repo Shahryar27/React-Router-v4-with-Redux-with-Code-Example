@@ -1,1 +1,1 @@
-# React-Router-v4-with-Redux-with-Code-Example
+This repository is all about learning React Router v4 with redux.
